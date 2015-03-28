@@ -1,0 +1,11 @@
+web-site is: www.e-wanta.com
+
+MS SQL
+Hostname: mssql02.iomart.com
+DB/Username: cheuia864
+Password: bobby540
+
+FTP
+ftp.e-wanta.com
+Username: cheuia864
+Password: bobby540

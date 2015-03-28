@@ -1,0 +1,13 @@
+<RESULT>Success</RESULT><Error></Error>e </Error>teway for product </Error>>ERP_SALE_ORDER_ID>_PRODUCT_QTY><EAN_13></EAN_13>TY_TOKEN> 
+                            <PARTNER_ID>77</PARTNER_ID> 
+                            <ERP_WAREHOUSE_ID>2</ERP_WAREHOUSE_ID> 
+                            <ORDER_POLICY>manual</ORDER_POLICY> 
+                            <PICKING_POLICY>one</PICKING_POLICY>
+                            <PRICELIST_ID>1</PRICELIST_ID> 
+                            <REFERENCE></REFERENCE> 
+                            <CHANNEL_ID></CHANNEL_ID> 
+                            <SOURCE_ID></SOURCE_ID> 
+                            <FISCAL_POSITION_ID></FISCAL_POSITION_ID> 
+                            <TAG_IDS></TAG_IDS> 
+                            <INVOICE_TYPE></INVOICE_TYPE><ORDER_LINE>
+                        <ERP_PRODUCT_ID>12</ERP_PRODUCT_ID> <DESCRIPTION></DESCRIPTION> <PRODUCT_UOM_ID></PRODUCT_UOM_ID> <PRICE_UNIT>20.0000</PRICE_UNIT> <QTY>12</QTY> <DISCOUNT_PERCENTAGE>5</DISCOUNT_PERCENTAGE> </ORDER_LINE></SALE_ORDER>
